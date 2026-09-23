@@ -1,6 +1,6 @@
-# CodeWithoutCloude
+# CodeWithoutCloud
 
-**CodeWithoutCloude** is my personal programming-learning repository.
+**CodeWithoutCloud** is my personal programming-learning repository.
 
 The goal is simple:
 
@@ -375,4 +375,4 @@ The question is:
 
 > **"Can I understand the problem, write the implementation, explain why it works, identify its weaknesses, and improve it?"**
 
-That is what **CodeWithoutCloude** is for.
+That is what **** is for.
